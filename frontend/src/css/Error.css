@@ -1,0 +1,26 @@
+.notfoundpage {
+    width: 100vw;
+    height: 91vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.notfoundpage h1 {
+    font-size: 200px;
+    font-family: poppins;
+    color: #e1e1e1;
+    font-weight: 700;
+}
+.notfount404 h2 {
+    text-align: center;
+}
+
+
+
+.notfount {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
